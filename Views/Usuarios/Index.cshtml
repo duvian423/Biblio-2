@@ -1,0 +1,86 @@
+<div class="row row1">
+    <div class="col-md-4">
+            
+    </div>
+    <div class="col-md-4 div_search">
+        <Input class="search" type="search" placeholder="Buscar"></Input>
+        </div>
+    <div  class="col-md-4 div_a">
+        <a class="a_usuario" asp-controller="Landing" asp-action="Index">Cerrar Seccion</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <a class="btn btn-primary boton a_boton" asp-controller="Usuarios" asp-action="Create">Crear otro Usuario</a>
+        
+
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Edad</th>
+                <th scope="col">Genero</th>
+                <th scope="col">Correo</th>
+                <th scope="col">Acciones</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Duvian</td>
+                <td>Lopez</td>
+                <td>32</td>
+                <td>M</td>
+                <td>duvian@example.com</td>
+                <td>
+                    <button class="btn btn-danger">
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
+                    </button>
+                    <button class="btn btn-warning">
+                        <a href="">Editar</a>
+                    </button>
+                    <button class="btn btn-success">
+                        <a href="">Detalles</a>
+                    </button>
+                </td>
+              </tr>
+              <tr>
+                <td>Duvian</td>
+                <td>Lopez</td>
+                <td>32</td>
+                <td>M</td>
+                <td>duvian@example.com</td>
+                <td>
+                    <button class="btn btn-danger">
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
+                    </button>
+                    <button class="btn btn-warning">
+                        <a href="">Editar</a>
+                    </button>
+                    <button class="btn btn-success">
+                        <a href="">Detalles</a>
+                    </button>
+                </td>
+              </tr>
+              <tr>
+                <td>Duvian</td>
+                <td>Lopez</td>
+                <td>32</td>
+                <td>M</td>
+                <td>duvian@example.com</td>
+                <td>
+                    <button class="btn btn-danger">
+                        <a asp-controller="Usuarios" asp-action="Delete">Eliminar</a>
+                    </button>
+                    <button class="btn btn-warning">
+                        <a href="">Editar</a>
+                    </button>
+                    <button class="btn btn-success">
+                        <a href="">Detalles</a>
+                    </button>
+                </td>
+              </tr>  
+            </tbody>
+          </table>
+    </div>
+</div>

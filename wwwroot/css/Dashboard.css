@@ -1,0 +1,43 @@
+.row_dash{
+    width: 80%;
+    margin: auto;
+}
+
+.row1{
+    height: 100px;
+    width: 100%;
+}
+
+.card_dash{
+    margin-top: 50px;
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.search{
+    width: 80%;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.div_search{
+    display: flex;
+    justify-content: end;
+}
+
+.div_a{
+    display: flex;
+    justify-content: end;
+}
+
+.a_Dash{
+    text-decoration: none;
+}
+
+.img-dash{
+    width: 100%;
+    height: 80%;
+    border-radius: 20px;
+}

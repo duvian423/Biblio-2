@@ -1,0 +1,48 @@
+.row_dash{
+    width: 80%;
+    margin: auto;
+}
+
+.row1{
+    height: 100px;
+    width: 100%;
+}
+
+.search{
+    width: 80%;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.div_search{
+    display: flex;
+    justify-content: end;
+}
+
+.div_a{
+    display: flex;
+    justify-content: end;
+}
+.a_usuario{
+    text-decoration: none;
+
+}
+
+.boton{
+    margin-left:    70px;
+    margin-bottom: 50px;
+    width: 180px;
+}
+
+.a_boton{
+    color: white;
+    text-decoration: none;
+}
+
+.table{
+    margin: auto;
+    width: 90%;
+}
+a{
+    text-decoration: none;
+}
