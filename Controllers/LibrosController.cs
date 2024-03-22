@@ -13,5 +13,8 @@ using Microsoft.AspNetCore.Mvc;
             public IActionResult Delete(){
                 return View();
             }
+            public IActionResult DetallesLibro(){
+                return View();
+            }
         }
     }
