@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Biblioteca
 build_property.RootNamespace = Biblioteca
-build_property.ProjectDir = C:\Users\duvian lopez\Documents\c#\Biblio-2\
+build_property.ProjectDir = /home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\duvian lopez\Documents\c#\Biblio-2
+build_property.MSBuildProjectDirectory = /home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/DashBoard/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaEJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Historial/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsXENyZWF0ZS5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Historial/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFsL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Historial/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsXERlbGV0ZS5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Historial/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFsL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Historial/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsXGluZGV4LmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Historial/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFsL2luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Landing/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Landing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZGluZy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Libros/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWF0ZS5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Libros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Libros/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERlbGV0ZS5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Libros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Libros/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Libros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Prestamo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cQ3JlYXRlLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Prestamo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Prestamo/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cRGVsZXRlLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Prestamo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Prestamo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cSW5kZXguY3NodG1s
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Prestamo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Usuarios/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Usuarios/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Usuarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Usuarios/Show.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcU2hvdy5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Usuarios/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvU2hvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/duvian lopez/Documents/c\#/Biblio-2/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-bunr9m1pqn
+[/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l8gc6defxz
