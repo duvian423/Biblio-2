@@ -1,62 +1,93 @@
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\appsettings.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cache
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cs
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.build.Biblioteca.props
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Biblioteca.props
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Biblioteca.props
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\scopedcss\bundle\Biblioteca.styles.css
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\scopedcss\projectbundle\Biblioteca.bundle.scp.css
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
-C:\Users\duvian lopez\Desktop\Biblioteca\Bibioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\appsettings.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.exe
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.deps.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.dll
-C:\Users\duvian lopez\Documents\c#\Biblio-2\bin\Debug\net8.0\Biblioteca.pdb
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cache
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cs
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.sourcelink.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets\msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets\msbuild.build.Biblioteca.props
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Biblioteca.props
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Biblioteca.props
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\scopedcss\bundle\Biblioteca.styles.css
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\scopedcss\projectbundle\Biblioteca.bundle.scp.css
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.dll
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\refint\Biblioteca.dll
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.pdb
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
-C:\Users\duvian lopez\Documents\c#\Biblio-2\obj\Debug\net8.0\ref\Biblioteca.dll
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/appsettings.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.staticwebassets.runtime.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.exe
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.deps.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.runtimeconfig.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.dll
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/bin/Debug/net8.0/Biblioteca.pdb
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cache
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cs
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.dll
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/refint/Biblioteca.dll
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.pdb
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
+C:/Users/duvian lopez/Desktop/Biblioteca/Bibioteca/Biblioteca/obj/Debug/net8.0/ref/Biblioteca.dll
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/appsettings.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.staticwebassets.runtime.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.exe
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.deps.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.runtimeconfig.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.dll
+C:/Users/duvian lopez/Documents/c#/Biblio-2/bin/Debug/net8.0/Biblioteca.pdb
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cache
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cs
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.sourcelink.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.dll
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/refint/Biblioteca.dll
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.pdb
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
+C:/Users/duvian lopez/Documents/c#/Biblio-2/obj/Debug/net8.0/ref/Biblioteca.dll
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/appsettings.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca.staticwebassets.runtime.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca.deps.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca.runtimeconfig.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca.dll
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/bin/Debug/net8.0/Biblioteca.pdb
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cache
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cs
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.sourcelink.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.dll
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/refint/Biblioteca.dll
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.pdb
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
+/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/obj/Debug/net8.0/ref/Biblioteca.dll
