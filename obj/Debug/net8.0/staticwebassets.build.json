@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K1MfXMyG1Z7py+/g9cyO1N8hkkZsndI/RwIEM1d2sKo=",
+  "Hash": "sNHLBkSOuYAJu7/Ekvi1CQUZ3axM950nqGi11NOVEpg=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/css/Delete.css"
     },
     {
-      "Identity": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/Landin.css",
+      "Identity": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/DetallesUser.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/",
       "BasePath": "_content/Biblioteca",
-      "RelativePath": "css/Landin.css",
+      "RelativePath": "css/DetallesUser.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/Landin.css"
+      "OriginalItemSpec": "wwwroot/css/DetallesUser.css"
+    },
+    {
+      "Identity": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/Landing.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/Landing.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Landing.css"
     },
     {
       "Identity": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/site.css",

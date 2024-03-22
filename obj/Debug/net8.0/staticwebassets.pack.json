@@ -17,8 +17,12 @@
       "PackagePath": "staticwebassets/css/Delete.css"
     },
     {
-      "Id": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/Landin.css",
-      "PackagePath": "staticwebassets/css/Landin.css"
+      "Id": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/DetallesUser.css",
+      "PackagePath": "staticwebassets/css/DetallesUser.css"
+    },
+    {
+      "Id": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/Landing.css",
+      "PackagePath": "staticwebassets/css/Landing.css"
     },
     {
       "Id": "/home/riwip5-008/Desktop/trabajo de la biblioteca/Biblio-2/wwwroot/css/Usuario.css",
