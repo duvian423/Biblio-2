@@ -13,5 +13,13 @@ using Microsoft.AspNetCore.Mvc;
             public IActionResult Delete(){
                 return View();
             }
+
+            public IActionResult Edit(){
+                return View();
+            }
+
+            public IActionResult Update(){
+                return View();
+            }
         }
     }

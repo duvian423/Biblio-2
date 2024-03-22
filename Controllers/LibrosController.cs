@@ -6,11 +6,19 @@ using Microsoft.AspNetCore.Mvc;
                 return View();
             }
 
-                        public IActionResult Create(){
+            public IActionResult Create(){
                 return View();
             }
 
             public IActionResult Delete(){
+                return View();
+            }
+
+            public IActionResult Edit(){
+                return View();
+            }
+
+            public IActionResult Update(){
                 return View();
             }
         }
